@@ -1,0 +1,21 @@
+{
+  "name": "e-commercer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+  "ui": "npx playwright test --headed --timeout=0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0"
+  },
+  "dependencies": {
+    "playwright": "^1.52.0",
+    "playwright-core": "^1.52.0"
+  },
+  "description": ""
+}
+

@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Playwright
+test-results/
+videos/
+screenshots/
+.playwright/
+
+# Logs
+logs/
+*.log
+
+# IDEs e sistemas
+.vscode/
+.DS_Store
+.idea/
+*.swp
+
+# Configurações do sistema
+.env
+.env.local
+.env.*.local
